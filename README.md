@@ -1,5 +1,8 @@
 # Capstone-Project-Netflix-Movie-Recomender-System
 
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/c464b9c0-4fec-4fd9-bae0-750857581755)
+
+
 Developing an effective and efficient movie recommender system for Netflix is a crucial initiative aimed at enhancing user experience and maximizing user engagement on the platform. The primary objective is to provide personalized movie recommendations to each user, taking into account their preferences, viewing history, and behavior.
 
 The business aim of this project is threefold:
@@ -62,10 +65,18 @@ From the Elbow method and Silhouette score we can choose optimal no of clusters 
 
 ## Outputs
 
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/0eb56c62-a888-45f8-ad5e-e0d808c8cecb)
 
-img
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/9aea70a3-5203-485d-b65d-b5809c77e497)
 
-img
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/e76f83f3-4733-4949-8f86-6864714444ca)
+
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/2dea8987-c398-4c16-9ec1-29fef41f2a3c)
+
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/36ff0af7-136f-459c-b580-9845e69e5ecd)
+
+![image](https://github.com/Ankit-770/Netflix-Movie-Recomender-System/assets/90442965/9601502e-bc6b-482c-a279-6713dab76d01)
+
 
 
 ## Conclusion
